@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 ## 🧠 LeetCode Stats  
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/anisha89a?theme=dark&font=Athiti&ext=heatmap)
+<div align="center">
+
+  <img src="https://leetcard.jacoblin.cool/annie89a?theme=dark&font=Montserrat&ext=heatmap" />
+
+</div>
 
 ---
 
