@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧠 LeetCode Stats
+## 🧠 LeetCode Progress  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/anisha89a?theme=dark&font=Athiti&ext=heatmap)
 
 ---
