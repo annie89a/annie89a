@@ -33,6 +33,10 @@
 
 ---
 
+### 👯 Looking to Collaborate On
+- Java & Spring Boot projects
+--- 
+  
 ### 🌱 Currently Learning
 - React
 - AWS (S3)
