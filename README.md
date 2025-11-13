@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Tech Stack & Competencies
+### 🚀 Tech Stacks
 
 #### **Backend**
 - Java 
