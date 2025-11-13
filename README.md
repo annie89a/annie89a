@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🧠 LeetCode Stats  
+## 🎯 LeetCode Stats  
 <div align="center">
 
   <img src="https://leetcard.jacoblin.cool/anisha89a?theme=dark&font=Athiti&ext=heatmap" />
@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Tech Stacks
+### 🛠️ Tech Stacks
 
 #### **Backend**
 - Java 
