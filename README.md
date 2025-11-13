@@ -12,24 +12,16 @@
 ### 🛠️ Tech Stacks
 
 #### **Backend**
-- Java 
-- Spring Boot
-- Spring MVC
-- RESTful APIs
+- Java || Spring Boot || Spring MVC || RESTful APIs
 
 #### **Frontend**
-- JavaScript
-- Vue.js
-- HTML5, CSS3
+- JavaScript || Vue.js || HTML5 || CSS3
 
 #### **Database**
-- SQL (MySQL, PostgreSQL)
+- SQL || MySQL || PostgreSQL
 
 #### **Tools & Others**
-- Git, Maven, Postman
-- XML  
-- C, C++, C# 
-- SAP BAPI
+- Git || Maven || Postman || XML  || C || C++ || C# || SAP BAPI
 
 ---
 
@@ -38,9 +30,7 @@
 --- 
   
 ### 🌱 Currently Learning
-- React
-- AWS (S3)
-- Advanced Spring Boot (Security, JPA)
+- React || AWS (S3) || Advanced Spring Boot (Security, JPA)
 
 ---
 
